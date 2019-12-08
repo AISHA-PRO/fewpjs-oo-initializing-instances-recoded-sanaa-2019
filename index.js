@@ -4,3 +4,15 @@ class Breakfast{
     
   }
 }
+
+class Breakfast{
+  constructor(food ,drink){
+    
+  }
+}
+
+class Breakfast{
+  constructor(food ,drink){
+    
+  }
+}
