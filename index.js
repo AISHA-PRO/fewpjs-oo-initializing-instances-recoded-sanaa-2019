@@ -11,7 +11,7 @@ class Lunch{
   }
 }
 
-class Breakfast{
+class Dinner{
   constructor(food ,drink){
     
   }
